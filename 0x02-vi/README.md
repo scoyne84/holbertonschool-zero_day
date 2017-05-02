@@ -1,0 +1,1 @@
+This project taught me basic visual editor commands, and Bill Joy's contributions to computer science.
